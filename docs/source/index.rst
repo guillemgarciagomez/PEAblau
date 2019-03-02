@@ -9,11 +9,8 @@ Introducció blabla bla bla bla etc etc Guillem el millor
    :maxdepth: 2
    :caption: Continguts:
 
+   introduccio
+   quees
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+s
