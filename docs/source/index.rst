@@ -1,9 +1,9 @@
 
 
-PEA blau: projecte educatiu de l'AEIG Sant Narcís
+PEA blau: projecte educatiu de l'AEIG Sant NarcÃ­s
 =================================================
 
-Introducció blabla bla bla bla etc etc Guillem el millor
+IntroducciÃ³ blabla bla bla bla etc etc Guillem el millor 2
 
 .. toctree::
    :maxdepth: 2
